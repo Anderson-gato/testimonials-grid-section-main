@@ -169,7 +169,7 @@ html, body{
 }
 
 /* responsividade para celulares */
-@media (max-width: 400px) {
+@media (max-width: 430px) {
   #container .container-card {
 
     max-width: 90%;
