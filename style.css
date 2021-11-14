@@ -161,7 +161,7 @@ html, body{
   #container .container-card {
     max-width: 90%;
 
-    grid-template-areas: 
+    grid-template-areas:
     "header1 header1 header2"
     "footer1 footer2 footer2"
     "header3 header3 header3";
